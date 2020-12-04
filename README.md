@@ -45,3 +45,4 @@ GNU General Public License for more details.
 
 **Nombre de los miembros del grupo:**
 - [Jonás Martínez Sanllorente](https://github.com/jms1008)
+- [María Alonso Peláez](https://github.com/map10100)
