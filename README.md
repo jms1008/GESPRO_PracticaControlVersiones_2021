@@ -47,3 +47,4 @@ GNU General Public License for more details.
 - [Jonás Martínez Sanllorente](https://github.com/jms1008)
 - [María Alonso Peláez](https://github.com/map10100)
 - [Álvaro Manjón Vara](https://github.com/xmv1001)
+- [Xinru Liu](https://github.com/xlx1004)
