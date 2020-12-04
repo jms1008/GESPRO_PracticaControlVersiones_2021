@@ -42,3 +42,6 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+**Nombre de los miembros del grupo:**
+- [Jonás Martínez Sanllorente](https://github.com/jms1008)
